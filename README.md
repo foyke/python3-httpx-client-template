@@ -1,2 +1,1 @@
-# tailscale-client
-fyoke tailscale client
+Fyoke Python Httpx client template
